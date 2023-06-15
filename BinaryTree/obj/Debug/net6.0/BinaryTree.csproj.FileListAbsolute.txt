@@ -1,0 +1,45 @@
+C:\Users\honor\source\repos\BinaryTree\obj\Debug\net6.0\BinaryTree.csproj.AssemblyReference.cache
+C:\Users\honor\source\repos\BinaryTree\obj\Debug\net6.0\BinaryTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\honor\source\repos\BinaryTree\obj\Debug\net6.0\BinaryTree.AssemblyInfoInputs.cache
+C:\Users\honor\source\repos\BinaryTree\obj\Debug\net6.0\BinaryTree.AssemblyInfo.cs
+C:\Users\honor\source\repos\BinaryTree\obj\Debug\net6.0\BinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\honor\source\repos\BinaryTree\bin\Debug\net6.0\BinaryTree.exe
+C:\Users\honor\source\repos\BinaryTree\bin\Debug\net6.0\BinaryTree.deps.json
+C:\Users\honor\source\repos\BinaryTree\bin\Debug\net6.0\BinaryTree.runtimeconfig.json
+C:\Users\honor\source\repos\BinaryTree\bin\Debug\net6.0\BinaryTree.dll
+C:\Users\honor\source\repos\BinaryTree\bin\Debug\net6.0\BinaryTree.pdb
+C:\Users\honor\source\repos\BinaryTree\obj\Debug\net6.0\BinaryTree.dll
+C:\Users\honor\source\repos\BinaryTree\obj\Debug\net6.0\refint\BinaryTree.dll
+C:\Users\honor\source\repos\BinaryTree\obj\Debug\net6.0\BinaryTree.pdb
+C:\Users\honor\source\repos\BinaryTree\obj\Debug\net6.0\BinaryTree.genruntimeconfig.cache
+C:\Users\honor\source\repos\BinaryTree\obj\Debug\net6.0\ref\BinaryTree.dll
+C:\Users\honor\Desktop\ЧМ и АиСД\4216-2023 Курсовая работа Шестаков М.Д\BinaryTree\obj\Debug\net6.0\BinaryTree.csproj.AssemblyReference.cache
+C:\Users\honor\Desktop\ЧМ и АиСД\4216-2023 Курсовая работа Шестаков М.Д\BinaryTree\obj\Debug\net6.0\BinaryTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\honor\Desktop\ЧМ и АиСД\4216-2023 Курсовая работа Шестаков М.Д\BinaryTree\obj\Debug\net6.0\BinaryTree.AssemblyInfoInputs.cache
+C:\Users\honor\Desktop\ЧМ и АиСД\4216-2023 Курсовая работа Шестаков М.Д\BinaryTree\obj\Debug\net6.0\BinaryTree.AssemblyInfo.cs
+C:\Users\honor\Desktop\ЧМ и АиСД\4216-2023 Курсовая работа Шестаков М.Д\BinaryTree\obj\Debug\net6.0\BinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\honor\Desktop\ЧМ и АиСД\4216-2023 Курсовая работа Шестаков М.Д\BinaryTree\obj\Debug\net6.0\BinaryTree.dll
+C:\Users\honor\Desktop\ЧМ и АиСД\4216-2023 Курсовая работа Шестаков М.Д\BinaryTree\obj\Debug\net6.0\refint\BinaryTree.dll
+C:\Users\honor\Desktop\ЧМ и АиСД\4216-2023 Курсовая работа Шестаков М.Д\BinaryTree\obj\Debug\net6.0\BinaryTree.pdb
+C:\Users\honor\Desktop\ЧМ и АиСД\4216-2023 Курсовая работа Шестаков М.Д\BinaryTree\bin\Debug\net6.0\BinaryTree.exe
+C:\Users\honor\Desktop\ЧМ и АиСД\4216-2023 Курсовая работа Шестаков М.Д\BinaryTree\bin\Debug\net6.0\BinaryTree.deps.json
+C:\Users\honor\Desktop\ЧМ и АиСД\4216-2023 Курсовая работа Шестаков М.Д\BinaryTree\bin\Debug\net6.0\BinaryTree.runtimeconfig.json
+C:\Users\honor\Desktop\ЧМ и АиСД\4216-2023 Курсовая работа Шестаков М.Д\BinaryTree\bin\Debug\net6.0\BinaryTree.dll
+C:\Users\honor\Desktop\ЧМ и АиСД\4216-2023 Курсовая работа Шестаков М.Д\BinaryTree\bin\Debug\net6.0\BinaryTree.pdb
+C:\Users\honor\Desktop\ЧМ и АиСД\4216-2023 Курсовая работа Шестаков М.Д\BinaryTree\obj\Debug\net6.0\BinaryTree.genruntimeconfig.cache
+C:\Users\honor\Desktop\ЧМ и АиСД\4216-2023 Курсовая работа Шестаков М.Д\BinaryTree\obj\Debug\net6.0\ref\BinaryTree.dll
+C:\Users\honor\source\repos\BinaryTree_Project\BinaryTree\bin\Debug\net6.0\BinaryTree.exe
+C:\Users\honor\source\repos\BinaryTree_Project\BinaryTree\bin\Debug\net6.0\BinaryTree.deps.json
+C:\Users\honor\source\repos\BinaryTree_Project\BinaryTree\bin\Debug\net6.0\BinaryTree.runtimeconfig.json
+C:\Users\honor\source\repos\BinaryTree_Project\BinaryTree\bin\Debug\net6.0\BinaryTree.dll
+C:\Users\honor\source\repos\BinaryTree_Project\BinaryTree\bin\Debug\net6.0\BinaryTree.pdb
+C:\Users\honor\source\repos\BinaryTree_Project\BinaryTree\obj\Debug\net6.0\BinaryTree.csproj.AssemblyReference.cache
+C:\Users\honor\source\repos\BinaryTree_Project\BinaryTree\obj\Debug\net6.0\BinaryTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\honor\source\repos\BinaryTree_Project\BinaryTree\obj\Debug\net6.0\BinaryTree.AssemblyInfoInputs.cache
+C:\Users\honor\source\repos\BinaryTree_Project\BinaryTree\obj\Debug\net6.0\BinaryTree.AssemblyInfo.cs
+C:\Users\honor\source\repos\BinaryTree_Project\BinaryTree\obj\Debug\net6.0\BinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\honor\source\repos\BinaryTree_Project\BinaryTree\obj\Debug\net6.0\BinaryTree.dll
+C:\Users\honor\source\repos\BinaryTree_Project\BinaryTree\obj\Debug\net6.0\refint\BinaryTree.dll
+C:\Users\honor\source\repos\BinaryTree_Project\BinaryTree\obj\Debug\net6.0\BinaryTree.pdb
+C:\Users\honor\source\repos\BinaryTree_Project\BinaryTree\obj\Debug\net6.0\BinaryTree.genruntimeconfig.cache
+C:\Users\honor\source\repos\BinaryTree_Project\BinaryTree\obj\Debug\net6.0\ref\BinaryTree.dll
